@@ -1,0 +1,31 @@
+streamlit 
+# LangChain Core
+langchain
+langchain-core
+
+# Google Gemini (PaLM) Integration
+langchain_google_genai
+google-generativeai
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+#streamlit 
+streamlit
+
+#langchain_community 
+langchain_community 
+
+# langserve
+langserve
+
+#reading pdf 
+pyPDF2 
+chromadb
+
+#faiss 
+faiss-cpu
